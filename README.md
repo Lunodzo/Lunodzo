@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on cybersecurity and ethical hacking research topics
 - 🤔 I’m looking for help with machine learning algorithms
 - 💬 Ask me about wireless security
-- 📫 How to reach me: Mzumbe University, B104 (c)
+- 📫 How to reach me: Mzumbe University, P.O.Box 112. Office No: B104 (c), lunomwinuka@gmail.com 
 - ⚡ Fun fact: I can be stupid! 
 
 <a href="https://github.com/lunodzo/github-readme-stats)">
