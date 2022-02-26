@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo&show_icons=true&hide=javascript,html&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo&show_icons=true&layout=compact" />
 </a>
 
 ### Let's connect!
@@ -33,6 +33,3 @@
 [2]: http://www.facebook.com/luno.mwinuka
 [6]: http://www.github.com/Lunodzo
 
-[![Lunodzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunodzo&show_icons=true&theme=radical)](https://github.com/lunodzo/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
