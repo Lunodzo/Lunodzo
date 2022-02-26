@@ -12,6 +12,14 @@
 - 📫 How to reach me: Mzumbe University, B104 (c)
 - ⚡ Fun fact: I can be stupid! 
 
+<a href="https://github.com/lunodzo/github-readme-stats)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lunodzo&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo&show_icons=true&theme=radical" />
+</a>
+
 ### Let's connect!
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -27,4 +35,4 @@
 
 [![Lunodzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunodzo&show_icons=true&theme=radical)](https://github.com/lunodzo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
