@@ -25,4 +25,6 @@
 [2]: http://www.facebook.com/luno.mwinuka
 [6]: http://www.github.com/Lunodzo
 
-[![Lunodzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunodzo)](https://github.com/lunodzo/github-readme-stats)
+[![Lunodzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunodzo&show_icons=true&theme=radical)](https://github.com/lunodzo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo)](https://github.com/anuraghazra/github-readme-stats)
