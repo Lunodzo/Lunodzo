@@ -24,3 +24,5 @@
 [1]: http://www.twitter.com/lunodzo
 [2]: http://www.facebook.com/luno.mwinuka
 [6]: http://www.github.com/Lunodzo
+
+[![Lunodzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunodzo)](https://github.com/lunodzo/github-readme-stats)
