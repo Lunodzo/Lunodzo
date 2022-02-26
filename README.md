@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I can be stupid! 
 
 <a href="https://github.com/lunodzo/github-readme-stats)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lunodzo&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lunodzo&show_icons=true&hide=contribution" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
