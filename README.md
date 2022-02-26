@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo&show_icons=true&hide=javascript,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodzo&show_icons=true&hide=javascript,html&langs_count=4" />
 </a>
 
 ### Let's connect!
