@@ -4,12 +4,11 @@
 **Lunodzo/Lunodzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently researching on wireless security and blockchain.
-- 🌱 I’m currently learning machine learning.
-- 👯 I’m looking to collaborate on cybersecurity and ethical hacking research topics.
-- 🤔 I’m looking for help with machine learning.
-- 💬 Ask me about wireless security.
-- 📫 How to reach me: Mzumbe University, P.O.Box 112. Office No: B104 (c), lunomwinuka@gmail.com 
+- 🔭 I’m currently researching Data Management and Integration.
+- 🌱 I’m learning AI and supporting technologies.
+- 👯 I’m looking to collaborate on big data and computer security.
+- 💬 Ask me about information security.
+- 📫 How to reach me: lunomwinuka@gmail.com 
 - ⚡ Fun fact: I can be stupid! 
 
 <a href="https://github.com/lunodzo/github-readme-stats)">
