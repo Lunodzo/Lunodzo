@@ -7,7 +7,7 @@
 - 🔭 I’m currently researching Data Management and Integration.
 - 🌱 I’m learning AI and supporting technologies.
 - 👯 I’m looking to collaborate on big data, Distributed computing, P2P, AI and computer security.
-- 💬 Ask me about information security.
+- 💬 Ask me about Distributed Data Storage.
 - 📫 How to reach me: Social Media
 - ⚡ Fun fact: I can be stupid! 
 
