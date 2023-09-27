@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently researching Data Management and Integration.
 - 🌱 I’m learning AI and supporting technologies.
-- 👯 I’m looking to collaborate on big data and computer security.
+- 👯 I’m looking to collaborate on big data, Distributed computing, P2P, AI and computer security.
 - 💬 Ask me about information security.
-- 📫 How to reach me: lunomwinuka@gmail.com 
+- 📫 How to reach me: Social Media
 - ⚡ Fun fact: I can be stupid! 
 
 <a href="https://github.com/lunodzo/github-readme-stats)">
