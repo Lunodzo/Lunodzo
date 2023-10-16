@@ -4,8 +4,8 @@
 **Lunodzo/Lunodzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently researching Data Management and Integration.
-- 🌱 I’m learning AI and supporting technologies.
+- 🔭 I’m currently researching Big Data Management and Integration (We are developing a tool to manage distributed big data and enable complex and distributed queries).
+- 🌱 I’m learning AI and supporting technologies, Graph Databases, and P2P Networks.
 - 👯 I’m looking to collaborate on big data, Distributed computing, P2P, AI and computer security.
 - 💬 Ask me about Distributed Data Storage.
 - 📫 How to reach me: Social Media
